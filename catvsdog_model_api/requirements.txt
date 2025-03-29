@@ -1,0 +1,14 @@
+uvicorn
+fastapi
+pydantic
+pydantic_settings
+requests
+jinja2
+python-multipart
+pillow
+
+# After uploading your package in PyPi use the given below
+#catvsdog-model==0.0.1
+
+# If locally copied whl file inside catvsdog_model_api then use given below
+catvsdog_model-0.0.1-py3-none-any.whl
